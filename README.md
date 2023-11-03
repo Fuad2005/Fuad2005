@@ -2,8 +2,9 @@
 ### 👋 Hi, my name is Fuad, I am a middle Full-Stack Web Developer!💻
 
 # 💫 About Me:
-🔭 I’m currently working on **Metaflix**<br>🌱 I’m currently learning **Flask, Flutter, and Godot game engine**<br>💬 Ask me about **Python, JavaScript, React, Django**<br>📫 How to reach me fuadqasimov078@gmail.com<br>
-
+🔭 I’m currently working on **Metaflix**<br><br>🌱 I’m currently learning **Flask, Flutter, and Godot game engine**<br><br>💬 Ask me about **Python, JavaScript, React, Django**<br><br>📫 How to reach me fuadqasimov078@gmail.com<br><br>
+<br>
+![Codewars](https://www.codewars.com/users/Fuad2005/badges/large)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1qasimov_fuad1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad-gasimov-011844250) 
